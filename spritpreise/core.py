@@ -68,7 +68,7 @@ def load_year(subset = 1):
 
 
 
-# Gte DataFrame containing data from the last 14 days
+# Get DataFrame containing data from the last 14 days
 def load_last14():
     dfa = pd.DataFrame()
 
