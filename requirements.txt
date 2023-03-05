@@ -4,4 +4,4 @@ numpy
 functools
 pathlib
 datetime
-sklearn
+scikit-learn

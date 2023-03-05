@@ -12,13 +12,13 @@ with open('LICENSE') as f:
     license = f.read()
 
 setup(
-    name='sample',
-    version='0.1.0',
-    description='Sample package for Python-Guide.org',
+    name='Spritpreise',
+    version='1.0.0',
+    description='spritpreise',
     long_description=readme,
-    author='Kenneth Reitz',
-    author_email='me@kennethreitz.com',
-    url='https://github.com/kennethreitz/samplemod',
+    author='Kilian Balter; Henrik Siesenop',
+    author_email='kilian.balter@th-bingen.de; henrik.siesenop@th-bingen.de',
+    url='https://github.com/KilianBalter/Spritpreise',
     license=license,
     packages=find_packages(exclude=('tests', 'docs'))
 )
