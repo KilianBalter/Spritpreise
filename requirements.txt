@@ -1,2 +1,7 @@
-nose
-sphinx
+pandas
+matplotlib
+numpy
+functools
+pathlib
+datetime
+sklearn
